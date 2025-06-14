@@ -1,0 +1,7 @@
+{
+    "template": "User's voice input: {user_input}\n\nPrevious conversation context:\n{conversation_history}\n\nPlease provide a helpful and concise response that would be appropriate for a voice assistant.",
+    "variables": {
+        "user_input": "",
+        "conversation_history": []
+    }
+} 
