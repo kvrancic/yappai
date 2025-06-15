@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "OTP Sales Insight AI",
+  title: "YappAI",
   description: "Advanced sales analytics and conversation intelligence platform",
     generator: 'v0.dev'
 }
